@@ -1,0 +1,29 @@
+.hero-image {
+  align-self: flex-start;
+}
+
+.primary {
+  color: var(--text);
+  /* width: 40%; */
+  max-width: 60%;
+}
+
+.main {
+  color: var(--text);
+  background-color: #fff;
+  margin-top: 3em;
+}
+
+.quality-title {
+  color: var(--medium);
+}
+
+.sidebar {
+  width: 30%;
+  flex-direction: column;
+  background: var(--medium);
+  color: #fff;
+  padding: 1em;
+  text-align: center;
+  text-indent: 0;
+}

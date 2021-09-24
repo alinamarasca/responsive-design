@@ -1,0 +1,21 @@
+.benefits {
+  color: var(--text);
+  background-color: #fff;
+  /* padding: 3em 0; */
+  text-align: center;
+}
+
+.accent-text {
+  color: var(--accent-text);
+}
+
+.goals {
+  background-color: var(--medium);
+  color: white;
+  /* padding: 3em 0; */
+  text-align: center;
+}
+
+.col + .col {
+  gap: 60px;
+}
